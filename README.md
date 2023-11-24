@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I’m Gleb Burov!<br><br>👀 I’m mostly interested in Golang Backend Developing.<br><br>💞️ In my spare time I practice web application development, solve algorithmic problems on Leetcode and Codeforces. I'm getting ready for internships at big IT companies.<br><br>📚 I’m currently studying at ITMO University, Faculty ICT.</p>
+<p align="left">👋 Hi, I’m Gleb Burov!<br><br>👀 I’m mostly interested in Golang Backend Developing.<br><br>💞️ In my spare time I practice web application development, solve algorithmic problems on Leetcode and Codeforces. I'm getting ready for internships at big IT companies.<br><br>📚 I’m currently studying at ITMO University, Faculty ICT (ITMO'26).</p>
 
 ###
 
